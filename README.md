@@ -1,15 +1,14 @@
 # h2g2-picocalc
 A complete Hitchhiker's Guide implementation for the ClockworkPi PicoCalc.
 
-============================================
+====================================================
 
-             Coming Very Soon!
-             
-                   30/9/25
+                 NEW ReEPOSITORY
+  https://github.com/moonplanter/hitchhikers-guide
                    
-============================================
+====================================================
 
-
+(h2g2 - is a website brand so, I renamed the project and moved the repository
 
 Features
 
